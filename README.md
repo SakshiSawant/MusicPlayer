@@ -1,3 +1,3 @@
 # MusicPlayer
-Music Player in Javascript
-https://musicmusical.netlify.app/
+Music Player in Javascript.
+Deployed Project: https://musicmusical.netlify.app/
